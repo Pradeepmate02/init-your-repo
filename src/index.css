@@ -29,6 +29,15 @@ All colors MUST be HSL.
     --accent: 210 40% 96.1%;
     --accent-foreground: 222.2 47.4% 11.2%;
 
+    /* Header specific tokens */
+    --header-background: 0 0% 98%;
+    --header-border: 214.3 31.8% 91.4%;
+    --header-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+    
+    /* Navigation tokens */
+    --nav-hover: 210 40% 94%;
+    --nav-active: 222.2 47.4% 11.2%;
+
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
